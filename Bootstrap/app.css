@@ -1,0 +1,36 @@
+body {
+    background: #fefae0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+#mainNav {
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+#mainNav .nav-link {
+    color: #a3b18a;
+}
+
+#mainNav .nav-link:hover {
+    color: #ccd5ae;
+    transition: color 0.2s;
+}
+
+#mainNav .navbar-brand {
+    color: #ccd5ae;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+#mainNav .navbar-brand:hover {
+    color: #e9edc9;
+    transition: color 0.5s;
+}
+
+span {
+    color: #d4a373;
+    font-weight: 600;
+}
+
